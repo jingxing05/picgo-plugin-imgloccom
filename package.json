@@ -1,0 +1,20 @@
+{
+  "name": "picgo-plugin-imgloccom",
+  "version": "1.0.4",
+  "description": "PicGo plugin for imgloc.com",
+  "main": "index.js", 
+  "homepage": "https://github.com/jingxing05/picgo-plugin-imgloccom.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" 
+  },
+  "keywords": [
+    "imgloc", 
+    "nodejs",
+    "electron",
+    "picgo",
+    "picgo-gui-plugin",
+    "picgo-plugin"
+  ],
+  "author": "qingfengzeng, zenge, jingxing05",
+  "license": "Apache 2.0" 
+}
